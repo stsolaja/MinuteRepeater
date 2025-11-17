@@ -1,6 +1,6 @@
 # MinuteRepeater
 A Java minute repeater.
-Used traditionally on pocket watches and some wrist watches to tell the time without looking at the screen
+Used traditionally in pocket watches and some wrist watches to tell the time without looking at the screen
 
 Chimes the time.
 First chimes the hour, then quarter and minute to interprete the time. 
